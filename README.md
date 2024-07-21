@@ -1,15 +1,17 @@
 # Stellarity Lite Port
 
 
-
-# Current newest Version:
+# Base Version:
 1.20.4
 
+# Current newest Version:
+23w51a–23w51b
+
 # Existing Ports:
+23w51a–23w51b
 
 
 # Ports to come:
-23w51a–23w51b
 24w03a–24w03b
 24w04a
 24w05a–24w05b
