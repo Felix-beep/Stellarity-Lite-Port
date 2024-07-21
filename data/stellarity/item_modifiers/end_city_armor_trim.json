@@ -1,6 +1,6 @@
 [
 	{
-		"function": "minecraft:set_nbt",
+		"function": "minecraft:set_custom_data",
 		"tag": "{Trim:{material:\"minecraft:gold\",pattern:\"minecraft:spire\"}}",
 		"conditions": [
 			{
@@ -10,7 +10,7 @@
 		]
 	},
 	{
-		"function": "minecraft:set_nbt",
+		"function": "minecraft:set_custom_data",
 		"tag": "{Trim:{material:\"minecraft:diamond\",pattern:\"minecraft:spire\"}}",
 		"conditions": [
 			{
@@ -20,7 +20,7 @@
 		]
 	},
 	{
-		"function": "minecraft:set_nbt",
+		"function": "minecraft:set_custom_data",
 		"tag": "{Trim:{material:\"minecraft:amethyst\",pattern:\"minecraft:spire\"}}",
 		"conditions": [
 			{

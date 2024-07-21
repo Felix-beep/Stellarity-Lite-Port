@@ -8,7 +8,7 @@
 					"name": "minecraft:potion",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{custom_potion_effects:[{id:\"minecraft:instant_health\",duration:1,amplifier:1},{id:\"minecraft:regeneration\",amplifier:4b,duration:70}],CustomPotionColor:16121975,stellarity.special_item:\"regeneraga_ii\"}"
 						},
 						{

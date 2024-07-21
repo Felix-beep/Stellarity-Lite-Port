@@ -18,7 +18,7 @@
 							}
 						},
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{custom_potion_effects:[{id:\"minecraft:conduit_power\",amplifier:0b,duration:7800},{id:\"minecraft:absorption\",amplifier:0b,duration:7800},{id:\"minecraft:dolphins_grace\",amplifier:0b,duration:7800}],CustomPotionColor:4695807,stellarity.special_item:\"poseidons_nectar\"}"
 						},
 						{

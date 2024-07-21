@@ -8,7 +8,7 @@
 					"name": "minecraft:potion",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{Potion:\"minecraft:water\",custom_potion_effects:[{id:\"minecraft:resistance\",amplifier:1,duration:1200}],stellarity.special_item:\"endurance_potion_ii\"}"
 						},
 						{

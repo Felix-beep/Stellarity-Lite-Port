@@ -8,7 +8,7 @@
 					"name": "minecraft:splash_potion",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{Potion:\"minecraft:water\",custom_potion_effects:[{id:\"minecraft:slowness\",amplifier:4,duration:280}],CustomPotionColor:8463733,stellarity.special_item:\"entanglement_potion_ext\"}"
 						},
 						{

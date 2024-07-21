@@ -8,7 +8,7 @@
 					"name": "minecraft:potion",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{custom_potion_effects:[{id:\"minecraft:speed\",duration:4800},{id:\"minecraft:fire_resistance\",duration:4800}],CustomPotionColor:16153088,stellarity.special_item:\"hellfire_treader_potion\"}"
 						},
 						{

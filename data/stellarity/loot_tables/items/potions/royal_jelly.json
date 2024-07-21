@@ -8,7 +8,7 @@
 					"name": "minecraft:honey_bottle",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{stellarity.special_item:\"royal_jelly\",HideFlags:2}"
 						},
 						{

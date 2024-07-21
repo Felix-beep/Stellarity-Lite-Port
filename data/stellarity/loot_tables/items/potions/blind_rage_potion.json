@@ -8,7 +8,7 @@
 					"name": "minecraft:potion",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{custom_potion_effects:[{id:\"minecraft:strength\",amplifier:2b,duration:300},{id:\"minecraft:darkness\",amplifier:0b,duration:300}],CustomPotionColor:7230976,stellarity.special_item:\"blind_rage_potion\"}"
 						},
 						{

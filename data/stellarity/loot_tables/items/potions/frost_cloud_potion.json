@@ -8,7 +8,7 @@
 					"name": "minecraft:lingering_potion",
 					"functions": [
 						{
-							"function": "minecraft:set_nbt",
+							"function": "minecraft:set_custom_data",
 							"tag": "{Potion:\"minecraft:water\",custom_potion_effects:[{id:\"minecraft:slowness\",amplifier:99,duration:30}],CustomPotionColor:8297656,stellarity.special_item:\"frost_cloud_potion\",HideFlags:32}"
 						},
 						{
