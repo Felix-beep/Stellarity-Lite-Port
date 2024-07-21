@@ -18,13 +18,13 @@
 		},
 		"additions_sound": {
 			"sound": "ambient.nether_wastes.additions",
-			"tick_chance": 1
+			"tick_chance": 0.01
 		},
 		"particle": {
 			"options": {
 				"type": "minecraft:ash"
 			},
-			"probability": 0.0111
+			"probability": 0.01
 		}
 	},
 	"spawners": {

@@ -11,9 +11,7 @@
 		"grass_color": 9764856,
 		"foliage_color": 11403007,
 		"grass_color_modifier": "none",
-		"ambient_sound": {
-			"sound_id": "stellarity:ambient.end.heavenly.blessed"
-		},
+		"ambient_sound": "stellarity:ambient.end.heavenly.blessed",
 		"mood_sound": {
 			"sound": "ambient.underwater.loop.additions.ultra_rare",
 			"tick_delay": 500,
