@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:enchanted_book"
+		},
+		"title": {
+			"translate": "stellarity.advancements.disenchant_item",
+			"fallback": "Breaking the Seal"
+		},
+		"description": [
+			{
+				"translate": "stellarity.advancements.disenchant_item.description",
+				"fallback": "Unbind enchantments from an item by combining it with an unenchanted book on the Altar of The Accursed"
+			}
+		],
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "minecraft:end/kill_dragon",
+	"criteria": {
+		"disenchant_item": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

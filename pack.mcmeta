@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 26,
+		"supported_formats": {
+			"min_inclusive": 4,
+			"max_inclusive": 48
+		},
+		"description": [
+			{
+				"text": "Imagine paying for a watered down version of a pack",
+				"color": "#CB4BFF"
+			}
+		]
+	}
+}
