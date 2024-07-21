@@ -9,10 +9,8 @@
 		"vegetation_chance": 0.4,
 		"xz_radius": {
 			"type": "minecraft:uniform",
-			"value": {
-				"min_inclusive": 5,
-				"max_inclusive": 6
-			}
+			"min_inclusive": 5,
+			"max_inclusive": 6
 		},
 		"replaceable": "#minecraft:dirt",
 		"ground_state": {

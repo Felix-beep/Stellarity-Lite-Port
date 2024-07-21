@@ -4,10 +4,8 @@
 		"surface": "floor",
 		"depth": {
 			"type": "minecraft:uniform",
-			"value": {
-				"min_inclusive": 1,
-				"max_inclusive": 2
-			}
+			"min_inclusive": 1,
+			"max_inclusive": 2
 		},
 		"vertical_range": 3,
 		"extra_bottom_block_chance": 0.5,
@@ -15,10 +13,8 @@
 		"vegetation_chance": 0.05,
 		"xz_radius": {
 			"type": "minecraft:uniform",
-			"value": {
-				"min_inclusive": 2,
-				"max_inclusive": 5
-			}
+			"min_inclusive": 2,
+			"max_inclusive": 5
 		},
 		"replaceable": "#far_end:end_stone",
 		"ground_state": {
@@ -56,10 +52,8 @@
 					},
 					"radius": {
 						"type": "minecraft:uniform",
-						"value": {
-							"min_inclusive": 0,
-							"max_inclusive": 1
-						}
+						"min_inclusive": 0,
+						"max_inclusive": 1
 					}
 				}
 			},

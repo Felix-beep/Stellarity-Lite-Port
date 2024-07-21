@@ -52,10 +52,8 @@
 			"height_rand_b": 0,
 			"bend_length": {
 				"type": "minecraft:uniform",
-				"value": {
-					"min_inclusive": 1,
-					"max_inclusive": 3
-				}
+				"min_inclusive": 1,
+				"max_inclusive": 3
 			}
 		},
 		"foliage_placer": {

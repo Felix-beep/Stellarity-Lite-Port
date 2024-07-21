@@ -57,24 +57,18 @@
 			"type": "minecraft:random_spread_foliage_placer",
 			"radius": {
 				"type": "minecraft:uniform",
-				"value": {
-					"min_inclusive": 3,
-					"max_inclusive": 7
-				}
+				"min_inclusive": 3,
+				"max_inclusive": 7
 			},
 			"offset": {
 				"type": "minecraft:uniform",
-				"value": {
-					"min_inclusive": 0,
-					"max_inclusive": 12
-				}
+				"min_inclusive": 0,
+				"max_inclusive": 12
 			},
 			"foliage_height": {
 				"type": "minecraft:uniform",
-				"value": {
-					"min_inclusive": 6,
-					"max_inclusive": 18
-				}
+				"min_inclusive": 6,
+				"max_inclusive": 18
 			},
 			"leaf_placement_attempts": 256
 		},

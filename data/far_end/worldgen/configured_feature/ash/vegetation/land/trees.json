@@ -58,10 +58,8 @@
 								},
 								"trunk_offset_y": {
 									"type": "minecraft:uniform",
-									"value": {
-										"min_inclusive": 0,
-										"max_inclusive": 5
-									}
+									"min_inclusive": 0,
+									"max_inclusive": 5
 								},
 								"above_root_placement": {
 									"above_root_provider": {
@@ -112,20 +110,16 @@
                     }
                   ]
                 },
-                "branch_end_offset_from_top": {
-                  "type": "minecraft:uniform",
-                  "value": {
-                    "max_inclusive": 0,
-                    "min_inclusive": -1
-                  }
-                },
-                "branch_horizontal_length": {
-                  "type": "minecraft:uniform",
-                  "value": {
-                    "max_inclusive": 5,
-                    "min_inclusive": 3
-                  }
-                },
+								"branch_end_offset_from_top": {
+									"type": "minecraft:uniform",
+									"max_inclusive": 0,
+									"min_inclusive": -1
+								},
+								"branch_horizontal_length": {
+									"type": "minecraft:uniform",
+									"max_inclusive": 5,
+									"min_inclusive": 3
+								},
                 "branch_start_offset_from_top": {
                   "max_inclusive": -3,
                   "min_inclusive": -4

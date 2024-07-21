@@ -4,10 +4,8 @@
 		"surface": "floor",
 		"depth": {
 			"type": "minecraft:uniform",
-			"value": {
-				"min_inclusive": 1,
-				"max_inclusive": 1
-			}
+			"min_inclusive": 1,
+			"max_inclusive": 1
 		},
 		"vertical_range": 128,
 		"extra_bottom_block_chance": 0.5,
@@ -15,10 +13,8 @@
 		"vegetation_chance": 1,
 		"xz_radius": {
 			"type": "minecraft:uniform",
-			"value": {
-				"min_inclusive": 0,
-				"max_inclusive": 0
-			}
+			"min_inclusive": 0,
+			"max_inclusive": 0
 		},
 		"replaceable": "#stellarity:huge_chorus_body",
 		"ground_state": {
@@ -82,17 +78,13 @@
 											"height_rand_b": 2,
 											"branch_count": {
 												"type": "minecraft:uniform",
-												"value": {
-													"min_inclusive": 2,
-													"max_inclusive": 3
-												}
+												"min_inclusive": 2,
+												"max_inclusive": 3
 											},
 											"branch_horizontal_length": {
 												"type": "minecraft:uniform",
-												"value": {
-													"min_inclusive": 2,
-													"max_inclusive": 4
-												}
+												"min_inclusive": 2,
+												"max_inclusive": 4
 											},
 											"branch_start_offset_from_top": {
 												"min_inclusive": -1,
@@ -104,18 +96,14 @@
 											"type": "minecraft:cherry_foliage_placer",
 											"radius": {
 												"type": "minecraft:uniform",
-												"value": {
-													"min_inclusive": 4,
-													"max_inclusive": 4
-												}
+												"min_inclusive": 4,
+												"max_inclusive": 4
 											},
 											"offset": 0,
 											"height": {
 												"type": "minecraft:uniform",
-												"value": {
-													"min_inclusive": 5,
-													"max_inclusive": 6
-												}
+												"min_inclusive": 5,
+												"max_inclusive": 6
 											},
 											"wide_bottom_layer_hole_chance": 0.66,
 											"corner_hole_chance": 0.66,
@@ -258,10 +246,8 @@
 									"height_rand_b": 2,
 									"bend_length": {
 										"type": "minecraft:uniform",
-										"value": {
-											"min_inclusive": 1,
-											"max_inclusive": 4
-										}
+										"min_inclusive": 1,
+										"max_inclusive": 4
 									},
 									"min_height_for_leaves": 100
 								},
