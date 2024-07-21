@@ -5,7 +5,7 @@
 1.20.4
 
 # Current newest Version:
-24w10a
+24w12a
 
 # Existing Ports:
 23w51a–23w51b
@@ -15,10 +15,10 @@
 24w06a
 24w07a
 24w09a
-
-# Ports to come:
 24w11a
 24w12a
+
+# Ports to come:
 24w13a
 24w14a
 1.20.5–1.20.6
